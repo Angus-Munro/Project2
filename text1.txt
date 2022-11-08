@@ -1,1 +1,2 @@
-This is text content
+This is text content.
+This is some more text content.
